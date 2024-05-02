@@ -1,0 +1,1 @@
+Para criar esse projeto, tive como referência o vídeo da Giovanna Moeller.
